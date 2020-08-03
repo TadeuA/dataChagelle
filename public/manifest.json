@@ -1,0 +1,15 @@
+{
+	"name": "",
+	"short_name": "",
+	"start_url": ".",
+	"display": "standalone",
+	"background_color": "#eee2d2",
+	"description": "",
+	"icons": [
+		{
+			"src": "images/Favicon.svg",
+			"sizes": "64x64",
+			"type": "image/svg"
+		}
+	]
+}
